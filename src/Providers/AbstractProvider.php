@@ -18,8 +18,8 @@ use Overtrue\Socialite\AccessTokenInterface;
 use Overtrue\Socialite\AuthorizeFailedException;
 use Overtrue\Socialite\InvalidStateException;
 use Overtrue\Socialite\ProviderInterface;
-use Symfony\Component\HttpFoundation\RedirectResponse;
-use Symfony\Component\HttpFoundation\Request;
+use Illuminate\Http\RedirectResponse;
+use Illuminate\Http\Request;
 
 /**
  * Class AbstractProvider.
