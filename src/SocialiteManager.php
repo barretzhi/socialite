@@ -13,7 +13,7 @@ namespace Overtrue\Socialite;
 
 use Closure;
 use InvalidArgumentException;
-use Symfony\Component\HttpFoundation\Request;
+use Illuminate\Http\Request;
 use Symfony\Component\HttpFoundation\Session\Session;
 
 /**
