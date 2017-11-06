@@ -1,5 +1,5 @@
 {
-    "name": "overtrue/socialite",
+    "name": "barretzhi/socialite",
     "description": "A collection of OAuth 2 packages that extracts from laravel/socialite.",
     "keywords": ["OAuth", "social", "login", "Weibo", "WeChat", "QQ"],
     "autoload": {
@@ -19,8 +19,8 @@
     "license": "MIT",
     "authors": [
         {
-            "name": "overtrue",
-            "email": "anzhengchao@gmail.com"
+            "name": "barretzhi",
+            "email": "barret.zhi@gmail.com"
         }
     ]
 }
